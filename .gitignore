@@ -1,0 +1,16 @@
+# build folder containing release/debug builds
+build
+
+# user specific files
+*.user
+*.pro.user 
+
+# visual studio files
+x64/
+*.suo
+*.user
+*.sdf
+*.obj
+*.pdb
+*.idb
+*.obj.enc
